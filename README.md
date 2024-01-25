@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/brunomuna/full/yjbdXX](https://codepen.io/brunomuna/full/yjbdXX)
 
-- 💬 Ask me about **Mobile First - Windows - Web Design and Full Stack development**
+- 💬 Ask me about **Web Design and Full Stack development**
 
 - 📫 How to reach me **bruno.munarolo@gmail.com**
 
