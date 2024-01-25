@@ -31,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunomunarolo&show_icons=true&locale=en&layout=compact" alt="brunomunarolo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunomunarolo&show_icons=true&locale=en" alt="brunomunarolo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunomunarolo&" alt="brunomunarolo" /></p>
